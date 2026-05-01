@@ -16,5 +16,5 @@ HTML5: Semantic structure.
 CSS3: Flexbox/Grid for layout and custom animations.
 
 Preview
-![Screenshot of Perform Clone](<img width="750" height="10336" alt="emanfatimahh31 github io_perform-clone_(iPhone SE)" src="https://github.com/user-attachments/assets/ce151851-2b38-4566-9dbc-dd24382b6eb7" />
-)
+![Screenshot of Perform Clone](<img width="750" height="10336" alt="emanfatimahh31 github io_perform-clone_(iPhone SE)" src="https://github.com/user-attachments/assets/320b7aaf-7d46-4d02-b8bb-ee1c3e1d3e5c" />
+
